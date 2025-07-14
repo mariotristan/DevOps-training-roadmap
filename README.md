@@ -56,3 +56,7 @@ Accelerating delivery, reliability, and operational excellence across teams
 
 ---
 
+[DevOps Enablement Program — Executive Summary](https://mariotristan.github.io/DevOps-training-roadmap/executive-summary)
+
+[DevOps Workshop Guide (Cloud-Agnostic)](https://mariotristan.github.io/DevOps-training-roadmap/)
+
